@@ -1,0 +1,47 @@
+# Exclude directories
+_Data-split/
+_Heatmaps/
+_Models/pass-start
+_normalized-heatmaps/
+_Sparse-representations/
+_Start-pass-model/
+Belgium-Jupiler-Pro-League/
+Brazil-Brasileirão/
+England-Championship/
+England-League-One/
+England-League-Two/
+England-Premier-League/
+France-Ligue-1/
+Germany-2-Bundesliga/
+Germany-Bundesliga/
+Italy-Serie-A/
+Netherlands-Eredivisie/
+Portugal-Liga-Portugal/
+Scotland-Premiership/
+Spain-LaLiga/
+Turkey-SuperLig/
+USA-Major-League-Soccer/
+
+# Exclude specific files
+2-channel-best-model.ipynb
+3d tensor pass structure.rtf
+abstract.docx
+aerial.csv
+all-data-model-similarity-metrics-comparison.rtf
+carries logic.rtf
+carries.csv
+embedder.ipynb
+Experiments.rtf
+open-play-crosses.csv
+open-play-passes.csv
+open-play-shots.csv
+recoveries.csv
+tackles.csv
+take-ons.csv
+Experiments.rtf
+kaggle-embedder.ipynb
+minutes-played.csv
+minutes-played_filtered.csv
+normalization-procedure.rtf
+normalization-question.rtf
+pass-start-best-model-parameters.rtf
